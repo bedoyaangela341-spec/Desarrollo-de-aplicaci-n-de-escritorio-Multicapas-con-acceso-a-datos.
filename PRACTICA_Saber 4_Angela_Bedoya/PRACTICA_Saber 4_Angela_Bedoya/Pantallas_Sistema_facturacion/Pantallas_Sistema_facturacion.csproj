@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8B2F6C7A-2B1E-4C3D-9E0A-1F2A3B4C5D6E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Pantallas_Sistema_facturacion</RootNamespace>
+    <AssemblyName>Pantallas_Sistema_facturacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Formularios\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmMenuPrincipal.Designer.cs">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmListaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmListaClientes.Designer.cs">
+      <DependentUpon>frmListaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmClientes.Designer.cs">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmListaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmListaProductos.Designer.cs">
+      <DependentUpon>frmListaProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmProductos.Designer.cs">
+      <DependentUpon>frmProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmListaEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmListaEmpleados.Designer.cs">
+      <DependentUpon>frmListaEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmEmpleados.Designer.cs">
+      <DependentUpon>frmEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmSeguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmSeguridad.Designer.cs">
+      <DependentUpon>frmSeguridad.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_LogicaDeNegocios\Capa_LogicaDeNegocios.csproj">
+      <Project>{B2D4F6A8-3E5A-4B7C-9D1F-2A4B6C8D0E12}</Project>
+      <Name>Capa_LogicaDeNegocios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

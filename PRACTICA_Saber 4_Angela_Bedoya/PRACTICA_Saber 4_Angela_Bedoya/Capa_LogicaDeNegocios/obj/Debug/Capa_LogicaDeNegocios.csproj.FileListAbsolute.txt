@@ -1,0 +1,9 @@
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.pdb
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_LogicaDeNegocios\obj\Debug\Capa_Log.592EBA8F.Up2Date
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.pdb

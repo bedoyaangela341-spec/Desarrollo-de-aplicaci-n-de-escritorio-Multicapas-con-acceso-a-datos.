@@ -1,0 +1,12 @@
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\bin\Debug\Pantallas_Sistema_facturacion.exe.config
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\bin\Debug\Pantallas_Sistema_facturacion.exe
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\bin\Debug\Pantallas_Sistema_facturacion.pdb
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\bin\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\bin\Debug\Capa_LogicaDeNegocios.pdb
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\obj\Debug\Pantallas_Sistema_facturacion.csproj.AssemblyReference.cache
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\obj\Debug\Pantallas_Sistema_facturacion.csproj.CoreCompileInputs.cache
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\obj\Debug\Pantalla.600E3FB0.Up2Date
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\obj\Debug\Pantallas_Sistema_facturacion.exe
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Pantallas_Sistema_facturacion\obj\Debug\Pantallas_Sistema_facturacion.pdb

@@ -1,0 +1,6 @@
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.dll
+C:\Users\angui\Downloads\PRACTICA_Saber 4_Angela_Bedoya\PRACTICA_Saber 4_Angela_Bedoya\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.pdb
